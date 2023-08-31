@@ -1,0 +1,9 @@
+:root{
+    --corPadrao:red;
+    --widthPadrao: 1100px;
+
+}
+
+div{
+    background-color: var(--corPadrao);
+}
